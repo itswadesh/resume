@@ -34,8 +34,8 @@ export default {
     Projects
   },
   metaInfo: {
-    title: "Gridsome Starter Resume",
-    titleTemplate: "%s - Create your resume quick and easy!"
+    title: "Swadesh Behera - Resume",
+    titleTemplate: "%s - Fulllstack Developer from India!"
   }
 };
 </script>

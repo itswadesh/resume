@@ -10,9 +10,9 @@
       <span class="d-block d-lg-none">Loke Carlsson</span>
       <span class="d-none d-lg-block">
         <g-image
-          alt="Image of Loke"
-          src="../assets/images/profile.png"
-          class="img-fluid img-profile rounded-circle mx-auto mb-2"
+          alt="Image of Swadesh"
+          src="../assets/images/profile.jpg"
+          class="img-profile rounded-circle mx-auto mb-2"
         />
       </span>
     </div>
